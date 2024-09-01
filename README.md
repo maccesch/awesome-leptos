@@ -119,8 +119,6 @@ full-stack web applications using Rust.
   management using The Elm Architecture (TEA) in Leptos
 - [leptos-leaflet](https://github.com/headless-studio/leptos-leaflet) Leaflet
   components for Leptos
-- [Papelito](https://github.com/msmaiaa/papelito) A simple WYSIWYG editor for
-  leptos.
 - [leptos-server-signal](https://github.com/tqwewe/leptos_server_signal) Leptos
   signals kept in sync with the server through websockets.
 - [leptos_sse](https://github.com/messense/leptos_sse) Leptos server signals
